@@ -1,5 +1,6 @@
 Employee monthly pay slip
-This is a console application that produces employee annual salary ad details output as a monthly pay slip.
+
+This is a console application that produces employee annual salary and details output as a monthly pay slip.
 
 Prerequisites
 Python 3.9.5
